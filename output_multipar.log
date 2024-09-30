@@ -1,0 +1,4 @@
+slurmstepd: error: task/cgroup: unable to add task[pid=19558] to memory cg '(null)'
+No folder
+Job ID: 25606482
+Array time:  0.6348235607147217
